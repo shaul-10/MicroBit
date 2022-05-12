@@ -1,2 +1,2 @@
-# MicroCode
-hiteck class micro code
+# MicroBit
+hiteck class micro bit
